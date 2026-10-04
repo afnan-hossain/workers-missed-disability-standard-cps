@@ -1,0 +1,34 @@
+# Data are never committed: IPUMS terms do not allow redistribution, and SIPP files are large.
+data/
+*.dat
+*.dat.gz
+*.zip
+*.rds
+
+# Keys and local settings
+.env
+.env.*
+*.env
+.Renviron
+.Renviron.*
+.secrets/
+.netrc
+credentials*.json
+*.pem
+*.key
+*.p12
+*.pfx
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv library (restore with renv::restore())
+renv/library/
+renv/staging/
+renv/local/
+
+# Local editor and operating-system files
+*~
+*.log
+.DS_Store
+Thumbs.db

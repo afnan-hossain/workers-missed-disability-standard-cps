@@ -1,0 +1,9 @@
+"row","n","pct","rd","p","rr","or","indent"
+"Not employed one year later","","","","","","",0
+"Neither","121,447","6.6","Reference","","Reference","Reference",1
+"Work limitation only","3,180","12.1","4.96 (3.58 to 6.35)","<0.001","1.70 (1.51 to 1.91)","1.81 (1.59 to 2.08)",1
+"Six-question disability only","4,664","12.5","5.03 (3.83 to 6.22)","<0.001","1.67 (1.51 to 1.84)","1.78 (1.59 to 2.00)",1
+"Both","891","23.0","15.22 (11.91 to 18.53)","<0.001","3.00 (2.59 to 3.47)","3.70 (3.04 to 4.50)",1
+"By status one year later, work limitation only vs neither","","","","","","",0
+"Out of the labor force, unable to work","","2.8 vs 0.5","2.23 (1.45 to 3.02)","<0.001","","",1
+"Unemployed","","2.5 vs 1.8","0.72 (0.08 to 1.36)","0.027","","",1

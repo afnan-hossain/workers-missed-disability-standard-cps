@@ -1,0 +1,11 @@
+"section","label","source","n","rd","lo","hi"
+"Primary analysis","Primary specification","Not employed at follow-up: work limitation only vs neither",130182,4.9627,3.5803,6.3451
+"Prespecified sensitivity analyses","Unweighted","Unweighted",130182,5.07878922129586,3.93495767842344,6.22262076416828
+"Prespecified sensitivity analyses","Inverse-probability-of-linkage weights","Inverse-probability-of-linkage weights",130182,5.0138,3.6318,6.3959
+"Prespecified sensitivity analyses","Excluding 2020–2021 follow-up (n = 99,996)","Excluding follow-up in 2020 or 2021",99996,4.6657,3.1781,6.1534
+"Prespecified sensitivity analyses","State fixed effects added","Adding state fixed effects",130182,4.9951,3.6137,6.3764
+"Prespecified sensitivity analyses","Standard errors clustered by state","Clustering by state",130182,4.9627,3.2407,6.6847
+"Work history and health checks","Previous-year work history added","T1 Add previous-year work history, wage quintile, class, occupation",130182,2.467,1.096,3.839
+"Work history and health checks","Full-year, full-time last year (n = 102,659)","T2 Full-year, full-time workers last year",102659,2.44,0.821,4.058
+"Work history and health checks","Self-rated health good to excellent","T3 Self-rated health excellent, very good or good",130182,3.17465402842425,1.76437426194477,4.58493379490373
+"Work history and health checks","Self-rated health fair or poor","T3 Self-rated health fair or poor",130182,10.9500073243139,6.90540374429251,14.9946109043354
